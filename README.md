@@ -1,2 +1,2 @@
 # NSSQ
-Nuclear Spot Segmentation and Quantification
+Spot segmentation and quantification on fluorescence microscopy images
